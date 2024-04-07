@@ -1,0 +1,1 @@
+export { default as EdgeCodePageView } from "./edge-code";
